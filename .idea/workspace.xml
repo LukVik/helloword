@@ -45,17 +45,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -462,12 +452,12 @@
       <workItem from="1622269625293" duration="7888000" />
       <workItem from="1625303756844" duration="671000" />
       <workItem from="1625572759979" duration="598000" />
-      <workItem from="1625810737408" duration="4002000" />
+      <workItem from="1625810737408" duration="4464000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82478000" />
+    <option name="totallyTimeSpent" value="82940000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -480,9 +470,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="874" y="32" width="1141" height="1038" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.32307693" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.3227907" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -497,7 +486,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4994664" weight="0.32930845" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.488684" weight="0.3250283" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.42956242" side_tool="true" weight="0.47639957" />
-      <window_info active="true" anchor="bottom" id="Messages" order="12" sideWeight="0.70746773" visible="true" weight="0.33182332" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.70746773" visible="true" weight="0.33182332" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -605,9 +594,6 @@
           <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
       <provider selected="true" editor-type-id="text-editor" />
@@ -738,10 +724,17 @@
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+        <state relative-caret-position="226">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
         </state>
       </provider>
     </entry>
