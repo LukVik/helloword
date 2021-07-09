@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a5b52ce-c1f3-41a4-b6c6-114853cf553b" name="Default Changelist" comment="" />
+    <list default="true" id="3a5b52ce-c1f3-41a4-b6c6-114853cf553b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.generators" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.generators" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/helloworld.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/helloworld.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +49,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+            <state relative-caret-position="-549">
+              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -114,10 +120,10 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="874" />
-    <option name="y" value="32" />
-    <option name="width" value="1141" />
-    <option name="height" value="1038" />
+    <option name="x" value="121" />
+    <option name="y" value="24" />
+    <option name="width" value="1798" />
+    <option name="height" value="985" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -456,12 +462,12 @@
       <workItem from="1622269625293" duration="7888000" />
       <workItem from="1625303756844" duration="671000" />
       <workItem from="1625572759979" duration="598000" />
-      <workItem from="1625810737408" duration="8507000" />
+      <workItem from="1625810737408" duration="12927000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86983000" />
+    <option name="totallyTimeSpent" value="91403000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -473,14 +479,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="874" y="32" width="1141" height="1038" extended-state="0" />
+    <frame x="121" y="24" width="1798" height="985" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3227907" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20034643" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4995809" weight="0.32821077" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.57043755" weight="0.35220838" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.57043755" visible="true" weight="0.33012047" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -488,9 +495,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" sideWeight="0.4994664" weight="0.32930845" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4994664" weight="0.32842582" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.488684" visible="true" weight="0.3250283" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.488684" weight="0.36746988" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.37860465" side_tool="true" weight="0.33182332" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.62139535" weight="0.33182332" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.62139535" weight="0.3313253" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -509,7 +516,7 @@
     <SUITE FILE_PATH="coverage/helloworld@Rails_console__helloworld.rcov" NAME="Rails console: helloworld Coverage Results" MODIFIED="1621689910257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="helloworld" />
     <SUITE FILE_PATH="coverage/helloworld@db_migrate__helloworld.rcov" NAME="db:migrate: helloworld Coverage Results" MODIFIED="1620893586162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="helloworld" />
     <SUITE FILE_PATH="coverage/helloworld@student4_modules.rcov" NAME="student4-modules Coverage Results" MODIFIED="1621946561277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app/models/oop_projects" MODULE_NAME="helloworld" />
-    <SUITE FILE_PATH="coverage/helloworld@Development__helloworld.rcov" NAME="Development: helloworld Coverage Results" MODIFIED="1625842338109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="helloworld" />
+    <SUITE FILE_PATH="coverage/helloworld@Development__helloworld.rcov" NAME="Development: helloworld Coverage Results" MODIFIED="1625864248856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="helloworld" />
     <SUITE FILE_PATH="coverage/helloworld@student.rcov" NAME="student Coverage Results" MODIFIED="1625838182000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app/models/oop_projects" MODULE_NAME="helloworld" />
     <SUITE FILE_PATH="coverage/helloworld@hw_branching.rcov" NAME="hw_branching Coverage Results" MODIFIED="1621761588446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app/models" MODULE_NAME="helloworld" />
     <SUITE FILE_PATH="coverage/helloworld@student4.rcov" NAME="student4 Coverage Results" MODIFIED="1625838223480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app/models/oop_projects" MODULE_NAME="helloworld" />
@@ -737,8 +744,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        <state relative-caret-position="-549">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
         </state>
       </provider>
     </entry>
