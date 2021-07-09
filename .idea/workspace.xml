@@ -460,12 +460,12 @@
       <workItem from="1622269625293" duration="7888000" />
       <workItem from="1625303756844" duration="671000" />
       <workItem from="1625572759979" duration="598000" />
-      <workItem from="1625810737408" duration="5919000" />
+      <workItem from="1625810737408" duration="7614000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84395000" />
+    <option name="totallyTimeSpent" value="86090000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -492,10 +492,10 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32930845" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" sideWeight="0.4994664" weight="0.32930845" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4994664" weight="0.32930845" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4994664" weight="0.32842582" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.488684" weight="0.3250283" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.42956242" side_tool="true" weight="0.47639957" />
-      <window_info active="true" anchor="bottom" id="Messages" order="12" sideWeight="0.70746773" visible="true" weight="0.33182332" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.37860465" side_tool="true" weight="0.33182332" />
+      <window_info active="true" anchor="bottom" id="Messages" order="12" sideWeight="0.62139535" visible="true" weight="0.33182332" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
